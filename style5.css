@@ -1,0 +1,37 @@
+.icon {
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.col-md-4:hover {
+    box-shadow: 5px 7px 9px -3px rgba(47, 48, 51, 0.5);
+    cursor: pointer;
+}
+
+.box-log{
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.social{
+    font-size: 200%;
+}
+.social a{
+    padding: 3%;
+    color: rgb(141, 133, 133);
+}
+.social a:hover{
+    color: #4f68d4;
+}
+.hs{
+    width: 150px;
+}
+.border_btm{
+border-bottom: 1px solid #ccc
+
+}
